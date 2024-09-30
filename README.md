@@ -19,7 +19,10 @@ Admin Panel:
 The admin panel enables cooperative managers to view user accounts, transaction history, and manage member applications (loans, deposits, withdrawals).
 
 # Technologies Used
-Flask Framework: This application is built using Flask, a lightweight web framework for Python.
-SQLite3: The database used to store user information, transaction details, and shopping records.
-HTML/CSS: For the front-end design of the web pages.
-Jinja2 Templating: Used for rendering dynamic content in the application.
+Flask Framework:  This application is built using Flask, a lightweight web framework for Python.
+
+SQLite3:  The database used to store user information, transaction details, and shopping records.
+
+HTML/CSS:  For the front-end design of the web pages.
+
+Jinja2 Templating:  Used for rendering dynamic content in the application.
