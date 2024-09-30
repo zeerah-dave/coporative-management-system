@@ -1,0 +1,6 @@
+/* static/css/print.css */
+
+/* Hide elements with the 'no-print' class when printing */
+.no-print {
+    display: none;
+}
